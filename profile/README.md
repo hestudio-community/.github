@@ -5,10 +5,10 @@
 
 ---
 
-爱好写代码，有时候玩玩Minecraft（想要一起玩的[Contact me](/about/#contact)）
+爱好写代码，有时候玩玩Minecraft（想要一起玩的[Contact me](https://www.hestudio.net/about/#contact)）
 天性懒惰，issue不处理属于常事（总会处理的，只是时间问题）。of course 挖坑不填也是常事。
 
-有新鲜点子[欢迎投稿](/talking/)！！！
+有新鲜点子[欢迎投稿](https://www.hestudio.net/talking/)！！！
 
 ### 赞助
 赞助我们以获得更长期稳定的产品
