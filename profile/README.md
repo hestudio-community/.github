@@ -22,7 +22,7 @@
 - QQ频道：https://pd.qq.com/s/uakgta
 - 作者CSDN：醉、倾城
 - heStudio社区：https://bbs.csdn.net/forums/hestudio
-- 作者Github：https://github.com/heStudio-Network
+- 作者Github：https://github.com/undefined-hestudio
 - 项目Github：https://github.com/hestudio-community
 - 作者博客：https://www.hestudio.net/
 - 作者爱发电：https://afdian.net/@hestudio
